@@ -20,9 +20,9 @@ setup(
     long_description=description,
     long_description_content_type="text/markdown",
     name="normalizer",
-    packages=["normalizer"],
+    packages=["app"],
     python_requires=">=3.9",
-    url="http://github.com/doitintl/certifications/normalizer",
+    url="http://github.com/gschaeffer/cert-normalizer",
     version="0.0.1",
     zip_safe=False,
 )
