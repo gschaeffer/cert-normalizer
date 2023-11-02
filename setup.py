@@ -20,7 +20,7 @@ setup(
     long_description=description,
     long_description_content_type="text/markdown",
     name="normalizer",
-    packages=["app"],
+    packages=["normalizer"],
     python_requires=">=3.9",
     url="http://github.com/gschaeffer/cert-normalizer",
     version="0.0.1",
